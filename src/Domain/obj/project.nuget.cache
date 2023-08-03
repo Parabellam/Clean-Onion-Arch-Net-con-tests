@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "epOv3xCG0ByGgX/PY1bGJHIKa+DWEFmUxmKBmmomZvy2sPGbrWbmf7uYSnBwDJ2WNQaNcs/Kv7JI7Hr0/JaZgA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\sruiz\\Desktop\\STIVEN PROYECTOS\\NEXOS PROYECTOS\\Proyecto Actual\\9. BACK FLUJOS 2\\EasyPOS\\src\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sruiz\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
+    "C:\\Users\\sruiz\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\sruiz\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\sruiz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
